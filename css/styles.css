@@ -1,8 +1,25 @@
-div{
+body{
+  margin: 0;
+}
+
+h1{
+  margin-top: 0;
+}
+
+.top{
   text-align: center;
   background-color: #EFEAD8;
   color: #6D8B74;
-  margin-top: 0;
-  margin-left: 0;
-  margin-right: 0;
+}
+
+.middle{
+  background-color: #5F7161;
+  height: 200px;
+  width: 200px;
+}
+
+.bottom{
+  background-color: #D0C9C0;
+  height: 200px;
+  width: 200px;
 }
