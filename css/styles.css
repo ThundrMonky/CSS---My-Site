@@ -1,43 +1,52 @@
-body{
+body {
   margin: 0;
   text-align: center;
+  font-family: 'Koulen', cursive;
+  background-color: #789395;
+  color: #B4CFB0;
 }
 
-h1{
+h1 {
   top: 200px;
 }
 
-span{
+p{
+  font-family: 'Nunito', sans-serif;
+}
+
+span {
   text-decoration: underline;
 }
 
-.top{
-  background-color: #EFEAD8;
-  color: #6D8B74;
+.top {
   position: relative;
   padding-top: 100px;
 }
 
-.top-cloud{
+.hobbies, .middle-container {
+
+}
+
+.contact-me {
+
+}
+
+.leaguelogo {
+  height: 80px;
+}
+
+.profile-photo {
+  height: 250px;
+}
+
+.top-cloud {
   position: absolute;
   right: 400px;
   top: 50px;
 }
 
-.bottom-cloud{
+.bottom-cloud {
   position: absolute;
   left: 400px;
   bottom: 300px;
-}
-
-.middle{
-  background-color: #5F7161;
-  height: 200px;
-  width: 200px;
-}
-
-.bottom{
-  background-color: #D0C9C0;
-  height: 200px;
-  width: 200px;
 }
