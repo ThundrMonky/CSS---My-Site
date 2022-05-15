@@ -35,10 +35,21 @@ span {
   bottom: 300px;
 }
 
-.leaguelogo {
-  height: 80px;
+.money{
+  height: 100px;
+  width: 100px;
+  margin-top: 50px;
+}
+.console{
+  height: 100px;
+  width: 100px;
 }
 
 .profile-photo {
   height: 250px;
+  margin-top: 50px;
+}
+
+.rule{
+  margin-top: 50px;
 }
