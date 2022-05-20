@@ -18,6 +18,7 @@ h2 {
   color: #5F7161;
   font-weight: normal;
   font-size: 400%;
+  padding-bottom: 20px;
 }
 
 h3 {
@@ -33,6 +34,7 @@ a {
 p {
   font-family: 'Nunito', sans-serif;
   font-size: 200%;
+  line-height: 2;
 }
 
 span {
@@ -61,13 +63,17 @@ span {
   padding-top: 100px;
 }
 
+.middle-container{
+  margin: 100px 0;
+}
+
 .profile-photo {
   height: 250px;
   margin-top: 50px;
 }
 
 .bio{
-  width: 40%;
+  width: 30%;
   margin: auto;
 }
 
@@ -98,7 +104,7 @@ span {
 
 .call-to-action{
   width: 40%;
-  margin: 50px auto;
+  margin: 40px auto 90px;
 }
 
 .btn {
@@ -111,7 +117,7 @@ span {
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
-  font-family: Arial;
+  font-family: 'Nunito', sans-serif;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
